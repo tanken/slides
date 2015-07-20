@@ -301,6 +301,18 @@ input[type="color"] {
     color: #1b958f; }
   .hola h2 span:nth-child(5) {
     color: #fbc839; }
+  .hola h2 span:nth-child(6) {
+    color: #fb3f2d; }
+  .hola h2 span:nth-child(7) {
+    color: #1b8bcc; }
+  .hola h2 span:nth-child(8) {
+    color: #fa3a7a; }
+  .hola h2 span:nth-child(9) {
+    color: #1b958f; }
+  .hola h2 span:nth-child(10) {
+    color: #fbc839; }
+  .hola h2 span:nth-child(11) {
+    color: #fb3f2d; }
 
 .hola h2.texture {
   -webkit-mask-image: url(../ENV/images/grunge-alpha-1.png);
